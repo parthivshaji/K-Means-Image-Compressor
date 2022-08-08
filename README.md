@@ -7,3 +7,5 @@ The K-Means Clustering algorithm used in this program was made by yours truly. S
 I could have easily just implemented the algorithm using sklearn, but I wanted to design my own from scratch.
 
 To use the compressor, run the executable file in dist/
+
+I used pyinstaller to compile the script into an executable, I just included the build/ folder for reference
